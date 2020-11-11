@@ -45,3 +45,9 @@ Evidências em Screenshot organizados por Falha/Sucesso, Data/Hora e Browser (Ch
 ```sh
 $ cucumber browser=chrome headless=off -t @cenario
 ```
+
+### Tag implementada Cucumber
+
+```sh
+$ @done
+```
